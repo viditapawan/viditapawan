@@ -1,5 +1,3 @@
-![alt text](data-analyst.jpg)
-
 👋 Hello, World! I'm Vidita Pawan, a dedicated data enthusiast and software developer. I thrive on transforming raw data into meaningful insights and user-friendly applications. My expertise lies in Python, EDA (Exploratory Data Analysis), NumPy, Pandas, Power BI, and MySQL.
 
 🚀 My Skills:
