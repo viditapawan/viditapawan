@@ -15,6 +15,7 @@ I am passionate about continuous learning. I'm currently exploring advanced data
 
 🔭 Goals:
 My goal is to make data-driven decisions accessible to everyone. I'm enthusiastic about leveraging my skills to create interactive dashboards, insightful reports, and user-friendly applications.
+Resume link: https://drive.google.com/file/d/1NkIEl4vOKSs0fZryj9LMyDxyB0iYJ8l3/view?usp=drivesdk
 
 📧 Contact Me:
 Feel free to reach out to me via email at viditapawan@gmail.com.
