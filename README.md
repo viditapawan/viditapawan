@@ -12,7 +12,7 @@ I'm Vidita Pawan.
 
 <img align="right" alt="Coding" width="500" src="https://motionarray.imgix.net/1666255-3VvVbNw7xQ-high_0004.jpg?w=660&q=60&fit=max&auto=format">
 
-**<a href="https://drive.google.com/file/d/1NkIEl4vOKSs0fZryj9LMyDxyB0iYJ8l3/view?usp=drivesdk" rel="nofollow" >About Me</a></strong>:**
+**<a href="https://drive.google.com/file/d/1NkIEl4vOKSs0fZryj9LMyDxyB0iYJ8l3/view?usp=drivesdk" rel="nofollow" target = "_blank">About Me</a></strong>:**
 
  - 🌐 Aspiring to make an impact as a **Data Analyst**
    
