@@ -28,10 +28,6 @@ I'm Vidita Pawan.
 
  - Resume <strong> <a href="https://drive.google.com/file/d/1NkIEl4vOKSs0fZryj9LMyDxyB0iYJ8l3/view?usp=drivesdk" rel="nofollow" >Link</a></strong>.
 
-<br>
-<br>
-<br>
-
 <h2 dir="auto"> <img src="https://camo.githubusercontent.com/b429fd0344f4072885b19923f824d4616893261e9d7cc2afb62f85224caca070/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a32704f476547594b65327843434b7766692f67697068792e676966" width="40" > <strong>Languages &amp; Tools:</strong></h2>
  
  <p align="center">  
@@ -49,8 +45,7 @@ I'm Vidita Pawan.
     <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" > <img src="https://camo.githubusercontent.com/c24d399e4e3f39d7d5a118314f185e5974d3eaeb05181054a0ea8bb34f3cc3f5/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6d6963726f736f66742d706f776572706f696e742d323031392d2d76312e706e67" width="55" height="55" > </a>
 
 <br>
-<br>
-<br>
+
 
 
 <h2 dir="auto"> </a> <img src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" width="40" > </a> <strong>Reach out to me:</strong> </h2>
