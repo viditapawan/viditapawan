@@ -24,7 +24,7 @@ I'm Vidita Pawan.
 
  - 👨‍💻 All of my projects are available at <strong> <a href="https://github.com/viditapawan" rel="nofollow" >GitHub</a></strong>.
  
- - 📫 Contact me through <strong> <a href="linkedin.com/in/vidita-pawan-b55444298" rel="nofollow" >LinkedIn</a></strong>.
+ - 📫 Contact me through <strong> <a href="https://www.linkedin.com/in/vidita-pawan-b55444298" rel="nofollow" >LinkedIn</a></strong>.
 
  - Resume <strong> <a href="https://drive.google.com/file/d/1NkIEl4vOKSs0fZryj9LMyDxyB0iYJ8l3/view?usp=drivesdk" rel="nofollow" >Link</a></strong>.
 
